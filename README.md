@@ -1,5 +1,4 @@
 # data-analytics
-University of Manchester
 
 Hello!
 
