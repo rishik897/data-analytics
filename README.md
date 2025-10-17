@@ -1,3 +1,6 @@
 # data-analytics
 University of Manchester
-Second year Economics & Data Analytics student at the University of Manchester| Passionate About Financial Markets and Economic Policy
+
+Hello!
+
+I'm a second year Economics & Data Analytics student at the University of Manchester with an interest in economic policy and its implications in financial markets
